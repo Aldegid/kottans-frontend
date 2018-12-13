@@ -35,3 +35,16 @@ I have already tried to create websites using the principles of responsive web d
 
 ![Responsive Web Design](https://github.com/Aldegid/kottans-frontend/blob/master/task_responsive_web_design/responsive_udacity.jpg)
 ![Responsive Web Design](https://github.com/Aldegid/kottans-frontend/blob/master/task_responsive_web_design/flexbox_froggy.jpg)
+
+
+## JS Basics
+I really liked the JS Basic course by Udacity. Excellent material presentation and good practical tasks.
+The second part of the course was quite difficult for me. I often got stuck, looked at the tips, read a lot of materials. But in the end I understood all the algorithms. I think this part of the course is very important. In my opinion, the understanding of frequently used algorithms lays a reliable basis for further development.
+The third part is the most difficult to understand. Lecturer thought too fast and the material is not the easiest. Plan to reconsider in the future when there will be more understanding of JS.
+
+
+
+![JS Basics](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_basics/task_js_basics_udacity.jpg)
+![JS Basics](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_basics/task_js_basics_codecamp.jpg)
+![JS Basics](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_basics/egghead_algorithm.jpg)
+
