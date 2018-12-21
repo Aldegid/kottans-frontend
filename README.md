@@ -43,8 +43,18 @@ The second part of the course was quite difficult for me. I often got stuck, loo
 The third part is the most difficult to understand. Lecturer thought too fast and the material is not the easiest. Plan to reconsider in the future when there will be more understanding of JS.
 
 
-
 ![JS Basics](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_basics/task_js_basics_udacity.jpg)
 ![JS Basics](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_basics/task_js_basics_codecamp.jpg)
 ![JS Basics](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_basics/egghead_algorithm.jpg)
+
+
+## DOM
+This course has clarified for me the important points of manipulating with DOM elements, such as adding and deleting. Especially important for myself was the work with events, in particular the possibility of adding event object into function.
+
+
+![DOM](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_dom/task_js_dom.jpg)
+![DOM](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_dom/algorithm_p2.jpg)
+
+Subtask(3) Demo[https://aldegid.github.io/KottansDOMPrictice/] | Code base[https://github.com/Aldegid/aldegid.github.io/tree/master/KottansDOMPrictice]
+Reviewed and approved by @AMashoshyna.
 
