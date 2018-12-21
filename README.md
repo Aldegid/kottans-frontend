@@ -55,6 +55,8 @@ This course has clarified for me the important points of manipulating with DOM e
 ![DOM](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_dom/task_js_dom.jpg)
 ![DOM](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_dom/algorithm_p2.jpg)
 
-Subtask(3) Demo[https://aldegid.github.io/KottansDOMPrictice/] | Code base[https://github.com/Aldegid/aldegid.github.io/tree/master/KottansDOMPrictice]
+Subtask(3) 
+[Demo](https://aldegid.github.io/KottansDOMPrictice/)  
+[Code base](https://github.com/Aldegid/aldegid.github.io/tree/master/KottansDOMPrictice)
 Reviewed and approved by @AMashoshyna.
 
