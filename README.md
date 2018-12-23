@@ -50,13 +50,23 @@ The third part is the most difficult to understand. Lecturer thought too fast an
 
 ## DOM
 This course has clarified for me the important points of manipulating with DOM elements, such as adding and deleting. Especially important for myself was the work with events, in particular the possibility of adding event object into function.
+Thanks @A-Ostrovnyy for recomendation with HTML CSS and fonts.
 
 
 ![DOM](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_dom/task_js_dom.jpg)
 ![DOM](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_dom/algorithm_p2.jpg)
 
-Subtask(3) 
-[Demo](https://aldegid.github.io/KottansDOMPrictice/)  
+Subtask(3)
+
+[Demo](https://aldegid.github.io/KottansDOMPrictice/) |
 [Code base](https://github.com/Aldegid/aldegid.github.io/tree/master/KottansDOMPrictice)
+
 Reviewed and approved by @AMashoshyna.
 
+
+## A Tiny JS World
+The task is not very difficult at this stage. I practiced with JS template strings and addressing to object properties. Special thx to  @OleksiyRudenko for a many usefull recomendation.
+[Demo](https://aldegid.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/Aldegid/a-tiny-JS-world)
+
+Reviewed and approved by @OleksiyRudenko
