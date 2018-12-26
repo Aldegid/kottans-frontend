@@ -56,7 +56,7 @@ Thanks @A-Ostrovnyy for recomendation with HTML CSS and fonts.
 ![DOM](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_dom/task_js_dom.jpg)
 ![DOM](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_dom/algorithm_p2.jpg)
 
-Subtask(3)
+#### Subtask(3)
 
 [Demo](https://aldegid.github.io/KottansDOMPrictice/) |
 [Code base](https://github.com/Aldegid/aldegid.github.io/tree/master/KottansDOMPrictice)
@@ -66,7 +66,26 @@ Reviewed and approved by @AMashoshyna.
 
 ## A Tiny JS World
 The task is not very difficult at this stage. I practiced with JS template strings and addressing to object properties. Special thx to  @OleksiyRudenko for a many usefull recomendation.
+
+
 [Demo](https://aldegid.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/Aldegid/a-tiny-JS-world)
+
+Reviewed and approved by @OleksiyRudenko
+
+## Object Oriented JS
+ Udacity OOP course are volume and detailed. The topic is complicated, some videos were watched 2-3 times. And in many ways, still confused. In the future, there is still much to be clarified and understood.
+ In the practical task at the beginning did not know what to start. But step by step, much has become clear. Following the recommendations of @OleksiyRudenko, I was able to improve my code and understanding of the OOP.
+
+
+ ![Object Oriented JS](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_oop/task_js_oop.jpg)
+ ![Object Oriented JS](https://github.com/Aldegid/kottans-frontend/blob/master/task_js_oop/codewars.jpg)
+
+ [Codewars acc](https://www.codewars.com/users/Aldegid)
+
+ #### Frogger Subtask
+
+[Demo](https://aldegid.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/Aldegid/a-tiny-JS-world/tree/a-tiny-JS-world-OOP)
 
 Reviewed and approved by @OleksiyRudenko
