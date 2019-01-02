@@ -89,3 +89,15 @@ Reviewed and approved by @OleksiyRudenko
 [Code base](https://github.com/Aldegid/a-tiny-JS-world/tree/a-tiny-JS-world-OOP)
 
 Reviewed and approved by @OleksiyRudenko
+
+## Memory Pair Game
+
+[Demo](https://aldegid.github.io/Memory-pair-game/) |
+[Code base](https://github.com/Aldegid/aldegid.github.io/tree/master/Memory-pair-game)
+
+Reviewed and approved by @zonzujiro
+
+## Friends App
+
+[Demo](https://aldegid.github.io/friends-app/) |
+[Code base](https://github.com/Aldegid/aldegid.github.io/tree/master/friends-app)
