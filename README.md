@@ -101,3 +101,5 @@ Reviewed and approved by @zonzujiro
 
 [Demo](https://aldegid.github.io/friends-app/) |
 [Code base](https://github.com/Aldegid/aldegid.github.io/tree/master/friends-app)
+
+Reviewed and approved by @zonzujiro
