@@ -103,3 +103,11 @@ Reviewed and approved by @zonzujiro
 [Code base](https://github.com/Aldegid/aldegid.github.io/tree/master/friends-app)
 
 Reviewed and approved by @zonzujiro
+
+## Offline Web Applications
+
+![Offline Web Applications](https://github.com/Aldegid/kottans-frontend/blob/master/task_offline_web_app/offline_web_apps.jpg)
+
+## Website Performance Optimization
+
+![Website Performance Optimization](https://github.com/Aldegid/kottans-frontend/blob/master/task_website_performance/perfomance_optimization.jpg)
